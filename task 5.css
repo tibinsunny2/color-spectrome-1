@@ -1,0 +1,30 @@
+#q{
+   
+    width: 8%;
+    height: 150px;
+    background-color: rgb(79, 26, 223);
+}
+#w{
+   
+    width: 8%;
+    height: 150px;
+    background-color: rgb(197, 223, 26);
+    margin-left: 93px;
+    margin-top: -150px;
+}
+#e{
+   
+    width: 8%;
+    height: 150px;
+    background-color: rgb(26, 207, 223);
+    margin-left: 185px;
+    margin-top: -147px;
+}
+#r{
+   
+    width: 8%;
+    height: 150px;
+    background-color: rgb(197, 26, 223);
+    margin-left: 33px;
+    margin-top: 55px;
+}
